@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/home/peacock/Downloads/DEMO/COVERTED/samples/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/home/peacock/Downloads/DEMO/COVERTED/samples/app/src/main/res/values-v11/themes.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 164
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/peacock/Downloads/DEMO/COVERTED/Android-TimePickersEditable/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/home/peacock/Downloads/DEMO/COVERTED/Android-TimePickersEditable/app/src/main/res/values-v11/themes.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 164
+                    }
+                }
+            }
+        ]
+    }
+]

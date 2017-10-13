@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/Android-TimePickersEditable/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/Android-TimePickersEditable/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/Android-TimePickersEditable/librarys/build/intermediates/res/merged/androidTest/debug/layout/number_picker_with_selector_wheel.xml",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/Android-TimePickersEditable/librarys/build/intermediates/bundles/debug/res/layout/number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/librarys/build/intermediates/res/merged/androidTest/debug/layout/number_picker_with_selector_wheel.xml",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/librarys/build/intermediates/bundles/debug/res/layout/number_picker_with_selector_wheel.xml"
+    }
+]

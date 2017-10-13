@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="numberPickerStyle"/>
+    <attr format="reference" name="timePickerStyle"/>
+    <color name="GRA">#dce3e6</color>
+    <color name="green">#09dcab</color>
+    <color name="transparent">#00000000</color>
+    <declare-styleable name="NumberPicker"><attr format="color|reference" name="solidColor"/><attr format="reference" name="selectionDivider"/><attr format="dimension" name="selectionDividerHeight"/><attr format="dimension" name="selectionDividersDistance"/><attr format="dimension" name="internalMinHeight"/><attr format="dimension" name="internalMaxHeight"/><attr format="dimension" name="internalMinWidth"/><attr format="dimension" name="internalMaxWidth"/><attr format="reference" name="internalLayout"/><attr format="reference" name="virtualButtonPressedDrawable"/></declare-styleable>
+    <item name="np__decrement" type="id"/>
+    <item name="np__increment" type="id"/>
+    <string name="app_name">TimePicker Samples</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_picker_dialog_title">Set date</string>
+    <string name="date_time_done">Done</string>
+    <string name="date_time_set">Set</string>
+    <string name="time_picker_decrement_hour_button">Decrement hour</string>
+    <string name="time_picker_decrement_minute_button">Decrement minute</string>
+    <string name="time_picker_decrement_set_am_button">Set AM</string>
+    <string name="time_picker_dialog_title">Set time</string>
+    <string name="time_picker_increment_hour_button">Increment hour</string>
+    <string name="time_picker_increment_minute_button">Increment minute</string>
+    <string name="time_picker_increment_set_pm_button">Set PM</string>
+    <string name="time_picker_separator">:</string>
+    <style name="NPWidget">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+    </style>
+    <style name="NPWidget.Holo.Light.NumberPicker" parent="NPWidget.Holo.NumberPicker">
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_light</item>
+    </style>
+    <style name="NPWidget.Holo.NumberPicker" parent="NPWidget.NumberPicker">
+        <item name="solidColor">@color/GRA</item>
+        <item name="selectionDivider">@color/green</item>
+        <item name="selectionDividerHeight">1.5dip</item>
+        <item name="internalLayout">@layout/number_picker_with_selector_wheel</item>
+        <item name="internalMinWidth">80dip</item>
+        <item name="internalMaxHeight">120dip</item>
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_dark</item>
+    </style>
+    <style name="NPWidget.NumberPicker">
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:fadingEdgeLength">500dip</item>
+    </style>
+    <style name="SampleTheme" parent="android:Theme">
+        <item name="numberPickerStyle">@style/NPWidget.Holo.NumberPicker</item>
+    </style>
+    <style name="Theme.Dialog.Alert" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--item name="android:windowTitleStyle">@android:style/DialogWindowTitle</item-->
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

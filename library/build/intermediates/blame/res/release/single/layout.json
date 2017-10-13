@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/layout/activity_samples.xml",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/src/main/res/layout/activity_samples.xml"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/layout/number_picker_with_selector_wheel.xml",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/librarys/build/intermediates/bundles/default/res/layout/number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/layout/time_picker_dialog.xml",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/src/main/res/layout/time_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/layout/time_picker_holo.xml",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/src/main/res/layout/time_picker_holo.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/list_pressed_holo_dark.9.png",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/librarys/build/intermediates/bundles/default/res/drawable-xhdpi-v4/list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/list_longpressed_holo.9.png",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/librarys/build/intermediates/bundles/default/res/drawable-xhdpi-v4/list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/list_pressed_holo_light.9.png",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/librarys/build/intermediates/bundles/default/res/drawable-xhdpi-v4/list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/list_focused_holo.9.png",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/librarys/build/intermediates/bundles/default/res/drawable-xhdpi-v4/list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/list_selector_disabled_holo_dark.9.png",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/librarys/build/intermediates/bundles/default/res/drawable-xhdpi-v4/list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/np_numberpicker_selection_divider.9.png",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/librarys/build/intermediates/bundles/default/res/drawable-xhdpi-v4/np_numberpicker_selection_divider.9.png"
+    },
+    {
+        "merged": "/home/peacock/Downloads/DEMO/COVERTED/samples/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/list_selector_disabled_holo_light.9.png",
+        "source": "/home/peacock/Downloads/DEMO/COVERTED/samples/librarys/build/intermediates/bundles/default/res/drawable-xhdpi-v4/list_selector_disabled_holo_light.9.png"
+    }
+]
